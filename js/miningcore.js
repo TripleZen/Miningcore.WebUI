@@ -49,7 +49,7 @@ var stratumAddress = window.location.hostname;           				// Stratum address 
 // --------------------------------------------------------------------------------------------
 // no need to change anything below here
 // --------------------------------------------------------------------------------------------
-console.log('MiningCore.WebUI : ', WebURL);		                      // Returns website URL
+console.log('TripleZen : ', WebURL);		                      // Returns website URL
 console.log('API address used : ', API);                                      // Returns API URL
 console.log('Stratum address  : ', "stratum+tcp://" + stratumAddress + ":");  // Returns Stratum URL
 console.log('Page Load        : ', window.location.href);                     // Returns full URL
